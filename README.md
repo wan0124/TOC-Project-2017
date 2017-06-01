@@ -50,4 +50,4 @@ What you need:
   8.Anytime you enter 'bye' , it means that you say bye to my bot , then my bot will fall asleep , you can wake it again by 'Hello' ,'Hi'  
 
 
-(/show-fsm.png)
+![](/show-fsm.png)
