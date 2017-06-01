@@ -49,5 +49,6 @@ What you need:
   7.After my bot finishes searching , you can choose to search another thing , or change to another type of help (google<->youtube)    
   8.Anytime you enter 'bye' , it means that you say bye to my bot , then my bot will fall asleep , you can wake it again by 'Hello' ,'Hi'  
 
+## Fsm of my bot
 
 ![](/show-fsm.png)
