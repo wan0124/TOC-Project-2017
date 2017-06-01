@@ -5,4 +5,4 @@ A telegram bot based on a finite state machine
 
 # Set up
 
-  pip install -r requirements.txt
+<pre><code>pip install -r requirements.txt</code></pre>
